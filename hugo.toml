@@ -1,0 +1,4 @@
+baseURL = "https://blog.insileco.io/"
+languageCode = "en"
+title = "inSileco Blog Redirect"
+disableKinds = ["taxonomy", "term", "section", "RSS", "sitemap", "robotsTXT", "404"]
